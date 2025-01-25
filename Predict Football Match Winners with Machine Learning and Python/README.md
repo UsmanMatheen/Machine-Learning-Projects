@@ -53,4 +53,10 @@ Follow the steps in the notebook to analyze the data.
 
 License
 
-This project is licensed under the MIT License 
+Open-source and available under the MIT License.
+
+## Contact
+If you have any questions or suggestions, please reach out:
+
+Name: Usman Matheen
+Email: contact.matheen9@example.com
