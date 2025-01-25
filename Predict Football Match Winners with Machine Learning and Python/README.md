@@ -39,7 +39,7 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo-name.git](https://github.com/UsmanMatheen/Machine-Learning-Projects/tree/main/Predict%20Football%20Match%20Winners%20with%20Machine%20Learning%20and%20Python
+git clone https://github.com/UsmanMatheen/Machine-Learning-Projects/tree/main/Predict%20Football%20Match%20Winners%20with%20Machine%20Learning%20and%20Python
 
 Navigate to the project directory:
 
